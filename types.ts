@@ -10,4 +10,5 @@ export interface RoadmapItem {
   officialCourses: OfficialCourse[];
   description: string;
   certification: string;
+  videoUrl?: string; // Nuevo campo para el enlace de YouTube
 }
