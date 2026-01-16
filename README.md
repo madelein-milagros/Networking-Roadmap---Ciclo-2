@@ -21,7 +21,7 @@ Este proyecto es una aplicación web interactiva diseñada para guiar a los estu
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
+   git clone https://github.com/madelein-milagros/TU_REPOSITORIO.git
    ```
 2. Instala las dependencias:
    ```bash
@@ -41,7 +41,7 @@ git init
 git add .
 git commit -m "Initial commit: Roadmap Tecsup Ciclo 2"
 git branch -M main
-git remote add origin https://github.com/TU_USUARIO/TU_REPOSITORIO.git
+git remote add origin https://github.com/madelein-milagros/TU_REPOSITORIO.git
 git push -u origin main
 ```
 
