@@ -2,7 +2,7 @@
 import { RoadmapItem } from './types';
 
 // CUANDO EL PROFESOR TE PASE EL LINK GENERAL, PÉGALO AQUÍ:
-export const GLOBAL_TUTORIAL_URL = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"; 
+export const GLOBAL_TUTORIAL_URL = "https://youtu.be/dQw4w9WgXcQ?si=YHkLxdTjHQ-IzVrd"; 
 
 export const ROADMAP_DATA: RoadmapItem[] = [
   {
