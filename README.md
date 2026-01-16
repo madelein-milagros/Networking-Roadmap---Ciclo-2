@@ -1,20 +1,49 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
 
-# Run and deploy your AI Studio app
+# Roadmap Interactivo: Networking & Redes - Ciclo 2 (Tecsup)
 
-This contains everything you need to run your app locally.
+Este proyecto es una aplicación web interactiva diseñada para guiar a los estudiantes de la carrera de Redes de Tecsup a través de los módulos clave del Ciclo 2. Utiliza una interfaz tipo "Roadmap" visual y responsiva.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1vV-yO6A2ss4D1TF-0tUeVsteU5NZzKmR
+## 🚀 Características
 
-## Run Locally
+- **Mapa Visual**: Camino interactivo con nodos numerados y líneas de conexión (SVG).
+- **Detalles por Módulo**: Tarjetas informativas con descripción, cursos oficiales de Cisco NetAcad y certificaciones.
+- **Responsive Design**: Optimizado para dispositivos móviles y tablets con scroll bidireccional.
+- **Integración de Logros**: Opción para compartir el progreso en LinkedIn y ver videos demostrativos.
+- **Celebración Final**: Sistema de recompensas visuales al completar el recorrido.
 
-**Prerequisites:**  Node.js
+## 🛠️ Tecnologías
 
+- **React 19** (TypeScript)
+- **Tailwind CSS** (Estilos y Animaciones)
+- **Cisco NetAcad Integration** (Enlaces directos a formación oficial)
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 📦 Instalación y Ejecución
+
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
+   ```
+2. Instala las dependencias:
+   ```bash
+   npm install
+   ```
+3. Ejecuta en modo desarrollo:
+   ```bash
+   npm run dev
+   ```
+
+## 📋 Comandos para subir a GitHub
+
+Si acabas de crear tu repositorio en GitHub, usa estos comandos:
+
+```bash
+git init
+git add .
+git commit -m "Initial commit: Roadmap Tecsup Ciclo 2"
+git branch -M main
+git remote add origin https://github.com/TU_USUARIO/TU_REPOSITORIO.git
+git push -u origin main
+```
+
+---
+*Desarrollado para la comunidad de Redes de Tecsup.*
